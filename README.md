@@ -5,3 +5,5 @@
 어디까지나 자기수양용으로 사용하시고 분쟁용으로 사용하지 마십시오.<br>
 <br>
 이용에 어떠한 책임도 지지 않습니다<br>
+<br>
+다운로드: https://github.com/zjvlwid/MobiMeter/releases
