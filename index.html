@@ -6,11 +6,13 @@
 <body>
   <div id="content"></div>
   <script>
-  fetch('README.md')
-    .then(res => res.text())
-    .then(md => {
-      document.getElementById('content').innerHTML = marked.parse(md)
-    })
+  Promise.all([
+  fetch('/README.md').then(r => r.text()),
+  fetch('/HowToUse/index.md').then(r => r.text())
+]).then(([md1, md2]) => {
+  document.getElementById('content').innerHTML =
+    marked.parse(md1 + '\n\n' + md2)
+})
   </script>
 
 </body>
