@@ -6,7 +6,7 @@
 <body>
   <div id="content"></div>
   <script>
-fetch('/HowToUse/index.md')
+fetch('HowToUse/index.md')
   .then(res => res.text())
   .then(md => {
     document.getElementById('content').innerHTML = marked.parse(md)
