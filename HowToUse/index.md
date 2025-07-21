@@ -1,8 +1,6 @@
 
--기본사용방법
-
+**-기본사용방법**
 <pre>
-  
 <img width="225" height="215" alt="image" src="https://github.com/user-attachments/assets/2f51822f-001a-4775-8fbf-a22dbe6e1e3e" />
 
 기본 세팅대로 사용하면 실시간 DPS 현황을 살펴볼수 있다
@@ -13,10 +11,8 @@
 
 
 
--단일대상 측정방법
-
+**-단일대상 측정방법**
 <pre>
-
 <img width="274" height="276" alt="image" src="https://github.com/user-attachments/assets/2ab6e08b-ccf7-4ea1-b420-678196a0d65a" />
   
 왼쪽하단의 다중타겟을 클릭하면 단일타겟으로 바뀐다
@@ -27,10 +23,8 @@
 
 
 
--장시간 측정방법
-
+**-장시간 측정방법**
 <pre>
-
 <img width="358" height="253" alt="image" src="https://github.com/user-attachments/assets/bd54e093-c15d-4626-8ddf-022fccf92346" />
 <img width="588" height="409" alt="image" src="https://github.com/user-attachments/assets/31387719-169c-47fa-a1a0-a9997f3d1a4a" />
 
@@ -64,10 +58,8 @@ DPS 측정시간을 600초로 놓고
 
 
 
--스톱워치 기능 사용방법
-
+**-스톱워치 기능 사용방법**
 <pre>
-
 <img width="505" height="331" alt="image" src="https://github.com/user-attachments/assets/0660bdce-5b8d-4ed1-9603-c918c7c829cf" />
 
 세팅에 들어가서 스탑워치 사용을 체크한뒤
@@ -87,10 +79,8 @@ DPS 측정시간을 원하는 시간으로 설정하고
 
 
 
--힐미터기 사용법
-  
+**-힐미터기 사용법**
 <pre>
-
 <img width="374" height="256" alt="image" src="https://github.com/user-attachments/assets/3a97c0cb-728f-4499-80cc-350722ce200a" />
 
 데미지바를 누르면 힐미터기로 전환된다
