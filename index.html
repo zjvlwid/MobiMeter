@@ -22,7 +22,7 @@
       fetch('HowToUse/index.md').then(r => r.text())
     ]).then(([md1, md2]) => {
       document.getElementById('content').innerHTML =
-        marked.parse(md1 + '\n\n' + md2)
+        marked.parse(md1 + '\n\n\n\n\n' + md2)
     })
   </script>
 </body>
