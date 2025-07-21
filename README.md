@@ -1,4 +1,4 @@
-{{ include: HowToUse/index.md }}
+
 
 모비노기 허수아비 미터기입니다.<br>
 총데미지만 확인 가능합니다.<br>
