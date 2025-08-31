@@ -9,7 +9,7 @@
 <br>
 설치방법: [https://zjvlwid.github.io/MobiMeter/HowToSetup](https://zjvlwid.github.io/MobiMeter/HowToSetup)
 <br>
-사용법: [https://zjvlwid.github.io/MobiMeter/HowToUse/](https://zjvlwid.github.io/MobiMeter/HowToUse/)
+사용법: [https://zjvlwid.github.io/MobiMeter/HowToUse](https://zjvlwid.github.io/MobiMeter/HowToUse)
 
 
 
