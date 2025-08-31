@@ -7,4 +7,9 @@
 **면책조항**<br>
 이용에 어떠한 책임도 지지 않습니다<br>
 <br>
-다운로드: https://github.com/zjvlwid/MobiMeter/releases
+설치방법: [https://zjvlwid.github.io/MobiMeter/HowToSetup](https://zjvlwid.github.io/MobiMeter/HowToSetup)
+<br>
+사용법: [https://zjvlwid.github.io/MobiMeter/HowToUse/](https://zjvlwid.github.io/MobiMeter/HowToUse/)
+
+
+
