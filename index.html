@@ -9,7 +9,8 @@
   <script>
     const mdFiles = [
       'README.md',
-      'HowToUse/index.md'
+      'HowToSetup.md',
+      'HowToUse.md'
     ];
 
     Promise.all(mdFiles.map(file => fetch(file).then(res => res.text())))
